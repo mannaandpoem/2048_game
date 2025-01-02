@@ -1,0 +1,22 @@
+{
+    "project_info": {
+        "name": "2048_game",
+        "path": "/Users/manna/PycharmProjects/MetaGPT_GitLab/workspace/playground/play6/2048_game/workspace/react_template",
+        "experiment_id": "20250102_105414_56361422"
+    },
+    "git_info": {
+        "repository_url": "",
+        "current_branch": "",
+        "branches": [],
+        "commit_hash": "",
+        "parent_commit": "",
+        "tags": []
+    },
+    "status": {
+        "state": "Goal: [Message] from User to Mike: @Alex Please develop very very simple simple simple software including main script by using Front-end language based on the following text: Project name: 2048_game.  \nTask: [GOAL] \n1. react_template template successfully copied to /Users/manna/PycharmProjects/MetaGPT_GitLab/workspace/playground/play6/2048_game/workspace/react_template. Navigate to it before starting the project. \n2. If the project root directory exists README.md, read it first.\n3. Make sure you have understood the content of the code file before updating or writing the code.\n\nNo Plan \n",
+        "executability": false
+    },
+    "code": [],
+    "plan": "",
+    "document": []
+}
